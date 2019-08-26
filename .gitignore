@@ -4,10 +4,6 @@
 !*.out*.c
 !*.out*.cc
 .idea
-!.vscode/c_cpp_p*.json
-!.vscode/setting.json
-!.vscode/tasks.json
-!.vscode/launch.json
 .vscode
 
 
